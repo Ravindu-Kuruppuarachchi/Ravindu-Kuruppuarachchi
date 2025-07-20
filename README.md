@@ -29,7 +29,7 @@
 ### 🌐 Web Development
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="Node-RED" width="40" height="40"/>
 </p>
 
 ### 🗄️ Databases
