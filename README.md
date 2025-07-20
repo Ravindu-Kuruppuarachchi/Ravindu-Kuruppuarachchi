@@ -1,83 +1,87 @@
+## 👨‍🎓 About Me
 <p align="center">
-  I'm a 2nd year Computer Science and Engineering student at the University of Moratuwa, Sri Lanka 🎓
+  I'm a 2nd-year Electronic and Telecomunication Engineering student at the University of Moratuwa, Sri Lanka 🎓  
+  Passionate about embedded systems, web technologies, and engineering solutions 🚀
 </p>
-<p align="center">
-  Enthusiastic about learning new technologies and building innovative solutions 🚀
-</p>
+
+---
 
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-    <img width="51%" src="https://github-readme-stats-gules-two-98.vercel.app/api?username=Ravindu-Kuruppuarachchi&show=reviews,prs_merged&show_icons=true&theme=radical">
-    <img width="42%" src="https://github-readme-stats-gules-two-98.vercel.app/api/top-langs/?username=Ravindu-Kuruppuarachchi&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8">
-    <br>
-    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Kuruppuarachchi&theme=radical&hide_border=false">
+    <img width="51%" src="https://github-readme-stats-gules-two-98.vercel.app/api?username=Ravindu-Kuruppuarachchi&show=reviews,prs_merged&show_icons=true&theme=radical&bg_color=001F3F">
+    <img width="42%" src="https://github-readme-stats-gules-two-98.vercel.app/api/top-langs/?username=Ravindu-Kuruppuarachchi&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8&bg_color=001F3F">
 </p>
-<br>
 
-<h2 align="center">My Skills & Experience</h2>
+---
 
-<h4 align="center">Languages</h4>
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+### 🖥️ Languages & Compilers
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
 </p>
 
-<h4 align="center">Web Development</h4>
+### 🌐 Web Development
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 </p>
 
-<h4 align="center">Databases</h4>
+### 🗄️ Databases
 <p align="center">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" />
 </p>
 
-<h4 align="center">IDEs</h4>
+
+### 🛠️ IDEs & Editors
 <p align="center">
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" />
 </p>
 
-<h4 align="center">Engineering Software</h4>
-<p align="center">
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%230066A8.svg?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img alt="Quartus" src="https://img.shields.io/badge/Quartus-%23EE3124.svg?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-%230162D1.svg?style=for-the-badge&logo=platformio&logoColor=white">
-    <img alt="STM32CubeIDE" src="https://img.shields.io/badge/STM32CubeIDE-%2300699C.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-</p>
-
-<h4 align="center">CAD & EDA Tools</h4>
+### 🔧 Engineering & EDA Software
 <p align="center">
   <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-%23003227.svg?style=for-the-badge&logo=solidworks&logoColor=white">
-  <img alt="Altium Designer" src="https://img.shields.io/badge/Altium%20Designer-%23E56135.svg?style=for-the-badge&logo=altium&logoColor=white">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Altium&color=A5915F&logo=AltiumDesigner&logoColor=FFFFFF&label=" alt="Altium" width="80" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Quartus&color=EE3124&logo=intel&logoColor=FFFFFF&label=" alt="Quartus" width="80" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=STM32CubeIDE&color=00669C&logo=stmicroelectronics&logoColor=FFFFFF&label=" alt="STM32CubeIDE" width="100" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PlatformIO&color=0162D1&logo=platformio&logoColor=FFFFFF&label=" alt="PlatformIO" width="100" />
 </p>
 
-<h4 align="center">Circuit Simulation</h4>
+### 🔌 Circuit Simulation
 <p align="center">
-  <img alt="Proteus" src="https://img.shields.io/badge/Proteus-%230066CC.svg?style=for-the-badge&logo=proteus&logoColor=white">
-  <img alt="LTspice" src="https://img.shields.io/badge/LTspice-%230052CC.svg?style=for-the-badge&logo=linear-technology&logoColor=white">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Proteus&color=0066CC&logo=proteus&logoColor=FFFFFF&label=" alt="Proteus" width="80" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LTspice&color=0052CC&logo=linear-technology&logoColor=FFFFFF&label=" alt="LTspice" width="80" />
 </p>
 
-<h4 align="center">Operating Systems</h4>
+### 💻 Operating Systems
 <p align="center">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="40" />
 </p>
 
-<br>
-<h2 align="center">My Socials</h2>
+---
+
+<h2 align="center">🔗 Connect With Me</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/ravindu-rashmika" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:ravindukrashmika@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://medium.com/@ravindukrashmika" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ravindu-rashmika" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="mailto:ravindukrashmika@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" />
+  </a>
+  <a href="https://medium.com/@ravindukrashmika" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" alt="Medium" width="40" />
+  </a>
 </p>
 
-<br>
-<p align ="right">© <a href="https://github.com/anuraghazra/github-readme-stats">stat-cards</a> <a href="https://www.freepik.com/author/upklyak">hi-image</a></p>
+<p align="center">
+  © 2025 Ravindu Kuruppuarachchi
+</p>
