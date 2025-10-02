@@ -1,7 +1,7 @@
 ## 👨‍🎓 About Me
 <p align="center">
-  I'm a 2nd-year Electronic and Telecomunication Engineering student at the University of Moratuwa, Sri Lanka 🎓  
-  Passionate about embedded systems, web technologies, and engineering solutions 🚀
+  I'm a 3rd-year Electronic and Telecomunication Engineering student at the University of Moratuwa, Sri Lanka 🎓  
+  Passionate about robotics, machine learning, embedded systems, web technologies, and engineering solutions 🚀
 </p>
 
 ---
