@@ -6,6 +6,20 @@
 
 ---
 
+
+<h2 align="center">My Github Stats</h2>
+
+<p align="center">
+
+    <img width="51%" src="https://github-readme-stats-gules-two-98.vercel.app/api?username=Ravindu-Kuruppuarachchi&show=reviews,prs_merged&show_icons=true&theme=radical&bg_color=001F3F">
+
+    <img width="42%" src="https://github-readme-stats-gules-two-98.vercel.app/api/top-langs/?username=Ravindu-Kuruppuarachchi&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8&bg_color=001F3F">
+
+</p>
+
+
+---
+
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 <table align="center" width="100%">
