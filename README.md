@@ -4,15 +4,18 @@
   🎯 <b>Focus:</b> Intelligent Robotics • Perception (CV) • IoT/Edge Systems.<br>
   🧭 <b>Domains:</b> Robotics • Machine Learning • Computer Vision • Embedded Systems • IoT.
 </p>
----
 
 
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img width="51%" src="https://github-readme-stats-gules-two-98.vercel.app/api?username=Ravindu-Kuruppuarachchi&show=reviews,prs_merged&show_icons=true&theme=radical&bg_color=001F3F">
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-gules-two-98.vercel.app/api?username=Ravindu-Kuruppuarachchi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&bg_color=001F3F&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9&border_color=30363D&border_radius=10&hide_border=false" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-gules-two-98.vercel.app/api/top-langs/?username=Ravindu-Kuruppuarachchi&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical&bg_color=001F3F&title_color=FF6B6B&text_color=C9D1D9&border_color=30363D&border_radius=10&langs_count=10&hide_border=false&card_width=445" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Kuruppuarachchi&theme=radical&background=001F3F&stroke=30363D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9&border_radius=10" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  
+</div>
 
-<img width="42%" src="https://github-readme-stats-gules-two-98.vercel.app/api/top-langs/?username=Ravindu-Kuruppuarachchi&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8&bg_color=001F3F">
-</p>
 
 ---
 
