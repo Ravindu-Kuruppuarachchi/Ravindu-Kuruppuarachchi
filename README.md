@@ -26,11 +26,11 @@
       <div style="border: 1px solid #444; border-radius: 8px; padding: 15px; margin: 5px; min-height: 120px;">
         <p align="center"><b>🤖 Robotics & Embedded</b></p>
         <p align="center">
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-          <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
-          <br>
           <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=PlatformIO&logoColor=white" alt="PlatformIO"/>
-          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Proteus&color=0066CC&logo=proteus&logoColor=FFFFFF&label=" alt="Proteus"/
+          <img src="https://img.shields.io/badge/Gazebo-FF7F00?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo"/>
+          <br>
+          <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS"/>
+          <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
           <br>
           <img src="https://img.shields.io/badge/STM32CubeIDE-00669C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE"/>
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LTspice&color=0052CC&logo=linear-technology&logoColor=FFFFFF&label=" alt="LTspice"/>
@@ -68,7 +68,24 @@
       </div>
     </td>
   </tr>
+  
   <tr align="center">
+    <td width="33%" valign="top">
+      <div style="border: 1px solid #444; border-radius: 8px; padding: 15px; margin: 5px; min-height: 120px;">
+        <p align="center"><b>☁️ Embeded & IoT </b></p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Proteus&color=0066CC&logo=proteus&logoColor=FFFFFF&label=" alt="Proteus"/
+          <br>
+          <br>
+          <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+          <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" alt="Node-RED"/>
+          <br>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+        </p>
+      </div>
+    </td>
     <td width="33%" valign="top">
       <div style="border: 1px solid #444; border-radius: 8px; padding: 15px; margin: 5px; min-height: 120px;">
         <p align="center"><b>🎛️ FPGA & Verification</b></p>
@@ -86,18 +103,6 @@
           <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
           <br>
           <img src="https://img.shields.io/badge/SolidWorks-DA1F05?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks"/>
-        </p>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <div style="border: 1px solid #444; border-radius: 8px; padding: 15px; margin: 5px; min-height: 120px;">
-        <p align="center"><b>☁️ IoT & Cloud</b></p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-          <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" alt="Node-RED"/>
-          <br>
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
         </p>
       </div>
     </td>
